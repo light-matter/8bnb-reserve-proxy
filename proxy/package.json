@@ -6,7 +6,9 @@
   "engines": {
     "node": "12.^14.1"
   },
-  "scripts": {},
+  "scripts": {
+    "start": "node server/index.js"
+  },
   "dependencies": {
     "@babel/runtime": "^7.8.3",
     "axios": "^0.19.2",

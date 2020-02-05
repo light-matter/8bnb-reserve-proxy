@@ -11,3 +11,4 @@ app.use(express.urlencoded({ extended: true })); // for parsing application/x-ww
 app.use('/', express.static(path.join(__dirname, '../public'))); // for serving static files
 
 app.listen(port, () => console.log(`App in mode: '${process.env.NODE_ENV}' listening on port ${port}!`));
+
