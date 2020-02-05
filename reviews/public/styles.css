@@ -1,0 +1,122 @@
+/* body {
+  margin: 0 auto;
+  padding: 0;
+  font-size: 16px;
+  font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
+  color: rgb(72, 72, 72);
+  width: 700px;
+}
+
+.reviews {
+  font-size: 24px;
+}
+
+.review-container {
+  border-bottom: solid 1px #e0e0e0;
+  padding-bottom: 12px;
+}
+
+.review-num {
+  display: inline;
+}
+
+.review-container img {
+  border-radius: 50%;
+  width: 45px;
+  height: 45px;
+}
+
+.review-header {
+  margin-top: 28px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.name {
+  margin: 2px 0 6px 0;
+  font-weight: 400;
+}
+
+.date {
+  margin: 0 0 2px 0;
+  font-weight: 100;
+  font-size: 13px;
+}
+
+.name-date {
+  display: flex;
+  flex-direction: column;
+}
+
+.review-body {
+  margin: 25px 0;
+  font-weight: 300;
+}
+
+.name-date {
+  margin-left: 15px;
+}
+
+.review-search {
+  border-radius: 5px;
+  font-size: 14px;
+  letter-spacing: normal;
+  color: #484848;
+  padding: 8px 7px;
+  font-weight: 400;
+  border: solid 1px #e0e0e0;
+  display: block;
+  width: 310px;
+  margin: 22px 0 0 0;
+}
+
+.review-top {
+  margin-bottom: -25px;
+}
+
+.review-footer-button {
+  color: rgb(72, 72, 72) !important;
+  margin: 0px !important;
+  text-decoration: none !important;
+  border-radius: 4px !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  background: transparent !important;
+  border-color: rgb(72, 72, 72)
+}
+
+.pagination {
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
+
+.pagination-arrow, .pagination-arrow a, .review-item, .review-item a {
+  text-decoration: none;
+  color: rgb(0, 132, 137)
+}
+
+.button-container {
+  position: relative;
+  width: 65px;
+  display: flex;
+  justify-content: flex-end;
+  top: -33px;
+  right: -258px;
+}
+
+.cancel-searchBtn {
+  border: none;
+  padding: 7px;
+  color: lightslategrey;
+  font-weight: 100;
+  margin-right: 6px;
+}
+
+.search-btn {
+  position: relative;
+  border-radius: 5px;
+  height: 30px;
+  border-color: transparent;
+} */

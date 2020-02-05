@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Reserve /> matches snapshot 1`] = `
+<div
+  className="wrapper"
+>
+  <PriceHeader
+    nightlyRate={200}
+  />
+  <BookForm />
+</div>
+`;
