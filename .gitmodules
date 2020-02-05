@@ -1,12 +1,12 @@
-[submodule "reserve"]
-	path = reserve
-	url = git@github.com:light-matter/8bnb-reserve-module.git
-[submodule "reviews"]
-	path = reviews
-	url = git@github.com:light-matter/8bnb-reviews-module.git
-[submodule "imagecarousel"]
-	path = imagecarousel
-	url = git@github.com:light-matter/8bnb-ImageCarousel.git
-[submodule "calendar"]
-	path = calendar
-	url = git@github.com:light-matter/8bnb-calendar-module.git
+# [submodule "reserve"]
+# 	path = reserve
+# 	url = git@github.com:light-matter/8bnb-reserve-module.git
+# [submodule "reviews"]
+# 	path = reviews
+# 	url = git@github.com:light-matter/8bnb-reviews-module.git
+# [submodule "imagecarousel"]
+# 	path = imagecarousel
+# 	url = git@github.com:light-matter/8bnb-ImageCarousel.git
+# [submodule "calendar"]
+# 	path = calendar
+# 	url = git@github.com:light-matter/8bnb-calendar-module.git
